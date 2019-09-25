@@ -1,0 +1,227 @@
+body .schedule .head-schedule img {
+  width: 250px; }
+body .schedule .form-schedule {
+  margin-top: 10px; }
+  body .schedule .form-schedule .title-form {
+    font-weight: bold;
+    font-style: italic;
+    color: #9e0509; }
+  body .schedule .form-schedule .main-form {
+    width: 650px;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    padding-top: 20px; }
+    body .schedule .form-schedule .main-form i {
+      float: left;
+      font-size: 28px;
+      margin-top: 5px; }
+    body .schedule .form-schedule .main-form .map1 {
+      color: #29abe1;
+      margin-right: 20px; }
+    body .schedule .form-schedule .main-form .map2 {
+      margin-right: 25px;
+      color: #9e0509; }
+    body .schedule .form-schedule .main-form select {
+      float: left;
+      width: 85%;
+      border-radius: 5px; }
+    body .schedule .form-schedule .main-form button {
+      width: 120px;
+      background: #9e0509;
+      border-radius: 25px;
+      margin-left: 20px;
+      margin-top: 25px; }
+      body .schedule .form-schedule .main-form button a {
+        color: #fff;
+        font-weight: bold; }
+body .schedule .main-schedule {
+  margin-top: 20px; }
+  body .schedule .main-schedule .item-schedule {
+    margin-bottom: 30px; }
+    body .schedule .main-schedule .item-schedule .title-item {
+      font-size: 25px;
+      font-weight: bold; }
+      body .schedule .main-schedule .item-schedule .title-item i {
+        font-size: 30px;
+        margin-right: 5px; }
+    body .schedule .main-schedule .item-schedule .main-item {
+      margin-bottom: 20px; }
+      body .schedule .main-schedule .item-schedule .main-item p {
+        margin-bottom: 0; }
+      body .schedule .main-schedule .item-schedule .main-item .header-item {
+        background: #ccc;
+        text-align: center;
+        font-size: 18px;
+        font-weight: bold;
+        height: 50px;
+        line-height: 50px; }
+      body .schedule .main-schedule .item-schedule .main-item .inmain-item {
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 20px; }
+        body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item {
+          float: left;
+          margin-top: 24px; }
+          body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item .luotdi {
+            float: left; }
+            body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item .luotdi .xuatben1, body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item .luotdi .time, body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item .luotdi .toiben1 {
+              float: left;
+              text-align: center; }
+        body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile {
+          float: right;
+          width: 70%; }
+          body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .item2 {
+            float: left;
+            margin-top: 24px; }
+            body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .item2 p {
+              float: left;
+              margin-right: 60px; }
+            body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .item2 .loaixe {
+              width: 200px;
+              margin-right: 40px; }
+          body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .right-item {
+            text-align: right;
+            float: right; }
+            body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .right-item button {
+              padding: 10px;
+              background: #9e0509;
+              color: #fff;
+              border: none;
+              border-radius: 5px; }
+body .schedule .contact {
+  margin-bottom: 30px; }
+  body .schedule .contact .icon-contact {
+    width: 30%; }
+    body .schedule .contact .icon-contact img {
+      width: 100%; }
+  body .schedule .contact .main-contact {
+    margin-top: 30px; }
+    body .schedule .contact .main-contact .item .header-item {
+      background: #e7e7e8;
+      border-top: 2px solid #ccc;
+      border-bottom: 2px solid #ccc; }
+      body .schedule .contact .main-contact .item .header-item p {
+        color: #9e0509;
+        font-size: 18px;
+        font-weight: 700;
+        padding: 5px 0 0 10px;
+        margin-bottom: 0; }
+        body .schedule .contact .main-contact .item .header-item p i {
+          margin-right: 10px; }
+    body .schedule .contact .main-contact .item .main-item .inner-item {
+      border-bottom: 2px solid #ccc; }
+      body .schedule .contact .main-contact .item .main-item .inner-item span {
+        font-weight: bold; }
+      body .schedule .contact .main-contact .item .main-item .inner-item .left-contact p {
+        font-size: 18px;
+        font-weight: bold;
+        margin-top: 30px; }
+      body .schedule .contact .main-contact .item .main-item .inner-item .right-contact .right-item {
+        padding-left: 0;
+        padding-right: 0;
+        color: #9e0509;
+        font-weight: bold;
+        margin-bottom: 0; }
+        body .schedule .contact .main-contact .item .main-item .inner-item .right-contact .right-item span {
+          color: #000; }
+        body .schedule .contact .main-contact .item .main-item .inner-item .right-contact .right-item i {
+          transform: rotate(100deg);
+          margin-left: 5px; }
+    body .schedule .contact .main-contact .item .main-item .inner-item:last-child {
+      border-bottom: none; }
+    body .schedule .contact .main-contact .item:last-child .inner-item:last-child {
+      border-bottom: 2px solid #ccc; }
+
+@media only screen and (max-width: 1407px) {
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item .luotdi {
+    font-size: 14px; }
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 14px; }
+    body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .item2 p {
+      margin-right: 20px; }
+    body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .item2 .loaixe {
+      width: 170px;
+      margin-right: 10px;
+      margin-left: 20px; } }
+@media only screen and (max-width: 1225px) {
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item .luotdi {
+    font-size: 12px; }
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 12px; } }
+@media only screen and (max-width: 1063px) {
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item {
+    margin-top: 0; }
+    body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item .luotdi {
+      font-size: 16px; }
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 16px;
+    width: 50%; }
+    body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .item2 {
+      margin-top: 0; }
+      body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .item2 p {
+        float: none; }
+      body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .item2 .loaixe {
+        margin-left: 0;
+        width: 200px; } }
+@media only screen and (max-width: 915px) {
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item .luotdi {
+    font-size: 14px; }
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 14px; } }
+@media only screen and (max-width: 833px) {
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item {
+    float: none; }
+    body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item .luotdi {
+      font-size: 16px; }
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 16px;
+    width: 100%; }
+    body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .item2 {
+      float: none;
+      margin-left: 0; }
+      body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .item2 p {
+        float: left;
+        margin-left: 0;
+        margin-right: 10px; }
+    body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile .right-item {
+      float: none;
+      text-align: left; } }
+@media only screen and (max-width: 669px) {
+  body .schedule .form-schedule .main-form {
+    width: 570px; } }
+@media only screen and (max-width: 577px) {
+  body .schedule .form-schedule .main-form {
+    width: 80%;
+    padding-bottom: 20px; }
+    body .schedule .form-schedule .main-form button {
+      margin: 0; } }
+@media only screen and (max-width: 481px) {
+  body .schedule .form-schedule .main-form {
+    width: 80%;
+    padding-bottom: 20px; }
+    body .schedule .form-schedule .main-form select {
+      width: 75%; }
+    body .schedule .form-schedule .main-form button {
+      margin: 0; } }
+@media only screen and (max-width: 410px) {
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item {
+    float: none; }
+    body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item .luotdi {
+      font-size: 14px; }
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 14px; } }
+@media only screen and (max-width: 380px) {
+  body .schedule .main-schedule .item-schedule .main-item .header-item {
+    font-size: 16px; } }
+@media only screen and (max-width: 371px) {
+  body .schedule .main-schedule .item-schedule .main-item .header-item {
+    font-size: 16px; }
+  body .schedule .main-schedule .item-schedule .main-item .inmain-item {
+    padding-left: 10px;
+    padding-right: 10px; }
+    body .schedule .main-schedule .item-schedule .main-item .inmain-item .left-item .luotdi {
+      font-size: 12px; }
+    body .schedule .main-schedule .item-schedule .main-item .inmain-item .right-mobile {
+      font-size: 12px; } }
+
+/*# sourceMappingURL=schedule.css.map */

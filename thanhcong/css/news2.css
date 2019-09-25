@@ -1,0 +1,52 @@
+body {
+  max-width: 1570px;
+  margin: auto; }
+  body .news2 ul {
+    list-style-type: none; }
+  body .news2 p {
+    margin-bottom: 0; }
+  body .news2 .tic {
+    width: 110px;
+    background-color: #9e0509;
+    padding: 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    z-index: 98;
+    font-weight: bold; }
+  body .news2 .main-news2 {
+    border-top: 3px solid #9e0509;
+    padding-top: 20px; }
+    body .news2 .main-news2 .left-item p {
+      margin-bottom: 15px; }
+    body .news2 .main-news2 .left-item .title {
+      margin-bottom: 0; }
+    body .news2 .main-news2 .left-item .date {
+      margin-right: 10px; }
+    body .news2 .main-news2 .left-item img {
+      width: 50%;
+      display: block;
+      margin: auto; }
+    body .news2 .main-news2 .left-item .title-image {
+      font-style: italic;
+      color: #0d85ea; }
+    body .news2 .main-news2 .left-item .source {
+      font-style: italic; }
+    body .news2 .main-news2 .right-item img {
+      width: 100%; }
+    body .news2 .main-news2 .right-item .title-right {
+      border-bottom: 1px solid #000; }
+    body .news2 .main-news2 .right-item .date-time .time {
+      margin-right: 5px; }
+    body .news2 .main-news2 .right-item .item {
+      margin-top: 20px; }
+      body .news2 .main-news2 .right-item .item .p1 a {
+        color: #000; }
+    body .news2 .main-news2 .right-item .right-item1 .item .p1 {
+      margin-top: -6px; }
+  @media only screen and (max-width: 569px) {
+    body body .news2 .main-news2 .right-item .item .p1 {
+      margin-top: 10px; } }
+
+/*# sourceMappingURL=news2.css.map */

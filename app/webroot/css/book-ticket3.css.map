@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,kBAAkB;EAChB,WAAW,EAAE,IAAI;EACjB,qBAAE;IACA,KAAK,EAAE,OAAO;EAGd,2BAAE;IACA,KAAK,EAAE,OAAO",
+"sources": ["../scss/book-ticket3.scss"],
+"names": [],
+"file": "book-ticket3.css"
+}

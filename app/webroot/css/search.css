@@ -1,0 +1,68 @@
+body .search .tic {
+  width: 230px;
+  background-color: #9e0509;
+  padding-top: 5px;
+  color: #fff;
+  text-align: center;
+  font-size: 20px;
+  position: relative;
+  z-index: 98;
+  font-weight: bold; }
+body .search .main-search {
+  border-top: 3px solid #9e0509;
+  padding-top: 30px; }
+  body .search .main-search .header-search .item {
+    border: 1px solid #ccc;
+    padding-top: 20px;
+    padding-bottom: 20px; }
+    body .search .main-search .header-search .item img {
+      width: 100%; }
+    body .search .main-search .header-search .item .title-header {
+      width: 160px;
+      margin: auto;
+      position: relative;
+      margin-top: 10px; }
+      body .search .main-search .header-search .item .title-header .ticbox {
+        float: left;
+        width: 30px;
+        height: 30px;
+        border: 2px solid #9e0509; }
+      body .search .main-search .header-search .item .title-header img {
+        position: absolute;
+        width: 25px;
+        transform: translate(-28px, 2px); }
+      body .search .main-search .header-search .item .title-header .name-title {
+        float: left;
+        font-weight: bold;
+        margin-left: 5px;
+        margin-top: 6px; }
+  body .search .main-search .inmain-search {
+    margin-top: 20px; }
+    body .search .main-search .inmain-search .title-table {
+      background: #c8c8c8;
+      color: #000;
+      margin-bottom: 0;
+      padding-top: 5px;
+      padding-bottom: 5px; }
+      body .search .main-search .inmain-search .title-table .inmain1 {
+        width: 260px;
+        margin: auto; }
+        body .search .main-search .inmain-search .title-table .inmain1 img {
+          width: 50px;
+          float: left; }
+        body .search .main-search .inmain-search .title-table .inmain1 p {
+          float: left;
+          font-weight: bold;
+          font-size: 20px;
+          margin-left: 10px;
+          margin-top: 12px;
+          margin-bottom: 0; }
+    body .search .main-search .inmain-search .table {
+      border: 1px solid #c8c8c8; }
+      body .search .main-search .inmain-search .table td {
+        border: 1px solid #c8c8c8; }
+      body .search .main-search .inmain-search .table .left-col {
+        font-weight: bold;
+        color: #9e0509; }
+
+/*# sourceMappingURL=search.css.map */

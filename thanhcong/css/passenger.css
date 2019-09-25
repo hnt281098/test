@@ -1,0 +1,95 @@
+body {
+  max-width: 1570px;
+  margin: auto; }
+  body .customer .tic {
+    background-color: #9e0509;
+    padding-top: 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    z-index: 98;
+    font-weight: bold; }
+  body .customer .main-customer .tic {
+    width: 230px; }
+  body .customer .main-customer .inmain-customer {
+    border-top: 3px solid #9e0509;
+    padding-top: 30px; }
+    body .customer .main-customer .inmain-customer h2 {
+      font-weight: 900;
+      margin-bottom: 30px; }
+    body .customer .main-customer .inmain-customer .item {
+      margin-top: 20px; }
+      body .customer .main-customer .inmain-customer .item .item-img img {
+        width: 100%;
+        height: 250px; }
+      body .customer .main-customer .inmain-customer .item .item-text .title {
+        text-align: center;
+        font-weight: 900;
+        margin-top: 60px; }
+  body .customer .schedule {
+    margin-top: 30px; }
+    body .customer .schedule .tic {
+      width: 110px; }
+    body .customer .schedule .main-schedule {
+      border-top: 3px solid #9e0509;
+      padding-top: 30px; }
+      body .customer .schedule .main-schedule table thead {
+        background-image: linear-gradient(#e1e1e1, #828282); }
+      body .customer .schedule .main-schedule table tbody form select {
+        width: 80px;
+        padding: 5px 10px;
+        border: 1px solid #9e0509; }
+      body .customer .schedule .main-schedule table tbody button {
+        background: #9e0509;
+        width: 100px;
+        border: none; }
+        body .customer .schedule .main-schedule table tbody button a {
+          color: #fff; }
+  body .customer .contact {
+    margin-bottom: 30px; }
+    body .customer .contact .icon-contact {
+      width: 30%; }
+      body .customer .contact .icon-contact img {
+        width: 100%; }
+    body .customer .contact .main-contact {
+      margin-top: 30px; }
+      body .customer .contact .main-contact .item .header-item {
+        background: #e7e7e8;
+        border-top: 2px solid #ccc;
+        border-bottom: 2px solid #ccc; }
+        body .customer .contact .main-contact .item .header-item p {
+          color: #9e0509;
+          font-size: 18px;
+          font-weight: 700;
+          padding: 5px 0 0 10px;
+          margin-bottom: 0; }
+          body .customer .contact .main-contact .item .header-item p i {
+            margin-right: 10px; }
+      body .customer .contact .main-contact .item .main-item .inner-item {
+        border-bottom: 2px solid #ccc; }
+        body .customer .contact .main-contact .item .main-item .inner-item span {
+          font-weight: bold; }
+        body .customer .contact .main-contact .item .main-item .inner-item .left-contact p {
+          font-size: 18px;
+          font-weight: bold;
+          margin-top: 30px; }
+        body .customer .contact .main-contact .item .main-item .inner-item .right-contact .right-item {
+          padding-left: 0;
+          padding-right: 0; }
+          body .customer .contact .main-contact .item .main-item .inner-item .right-contact .right-item p {
+            color: #9e0509;
+            font-weight: bold;
+            margin-bottom: 0; }
+            body .customer .contact .main-contact .item .main-item .inner-item .right-contact .right-item p i {
+              transform: rotate(100deg); }
+      body .customer .contact .main-contact .item .main-item .inner-item:last-child {
+        border-bottom: none; }
+      body .customer .contact .main-contact .item:last-child .inner-item:last-child {
+        border-bottom: 2px solid #ccc; }
+
+@media only screen and (max-width: 481px) {
+  body .customer .contact .icon-contact {
+    width: 60%; } }
+
+/*# sourceMappingURL=passenger.css.map */

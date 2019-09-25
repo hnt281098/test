@@ -1,0 +1,103 @@
+body{
+  max-width: 1570px;
+  margin: auto;
+  .contact{
+    .main-contact{
+      color: #9e0509;
+      .title{
+        img{
+          width: 200px;
+        }
+      }
+      .inmain-contact{
+        margin-top: 40px;
+        .left-item{
+          h5{
+            font-weight: bold;
+          }
+          .fa-phone{
+            transform: rotate(115deg);
+          }
+        }
+        .right-item{
+          h5{
+            font-weight: bold;
+          }
+          button{
+            background: #9e0509;
+            border: none;
+            border-radius: 0;
+            width: 70px;
+          }
+        }
+      }
+    }
+    .contact-item{
+      margin-top: 30px;
+      margin-bottom: 30px;
+      .icon-contact{
+        width: 30%;
+        img{
+          width: 100%;
+        }
+      }
+      .main-contact{
+        margin-top: 30px;
+        .item{
+          .header-item{
+            background: #e7e7e8;
+            border-top: 2px solid #ccc;
+            border-bottom: 2px solid #ccc;
+            p{
+              color: #9e0509;
+              font-size: 18px;
+              font-weight: 700;
+              padding: 5px 0 0 10px;
+              margin-bottom: 0;
+              i{
+                margin-right: 10px;
+              }
+            }
+          }
+          .main-item{
+            .inner-item{
+              border-bottom: 2px solid #ccc;
+              span{
+                font-weight: bold;
+              }
+              .left-contact{
+                p{
+                  font-size: 18px;
+                  font-weight: bold;
+                  margin-top: 30px;
+                }
+              }
+              .right-contact{
+                .right-item{
+                  padding-left: 0;
+                  padding-right: 0;
+                  p{
+                    color: #9e0509;
+                    font-weight: bold;
+                    margin-bottom: 0;
+                    i{
+                      transform: rotate(100deg);
+                    }
+                  }
+                }
+              }
+            }
+            .inner-item:last-child{
+              border-bottom: none;
+            }
+          }
+        }
+        .item:last-child{
+          .inner-item:last-child{
+            border-bottom: 2px solid #ccc;
+          }
+        }
+      }
+    }
+  }
+}

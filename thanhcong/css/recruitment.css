@@ -1,0 +1,44 @@
+body {
+  max-width: 1570px;
+  margin: auto; }
+  body .recruitment .tic {
+    width: 150px;
+    background-color: #9e0509;
+    padding-top: 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    z-index: 98;
+    font-weight: bold; }
+  body .recruitment .main-recruitment {
+    border-top: 3px solid #9e0509;
+    padding-top: 30px; }
+    body .recruitment .main-recruitment .div1 .des-recruitment {
+      float: left;
+      width: 50%; }
+    body .recruitment .main-recruitment .div1 .img {
+      float: right;
+      width: 40%; }
+      body .recruitment .main-recruitment .div1 .img img {
+        width: 100%; }
+    body .recruitment .main-recruitment .div2 {
+      margin-top: 30px; }
+      body .recruitment .main-recruitment .div2 h4 {
+        color: #9e0509;
+        margin-bottom: 20px; }
+      body .recruitment .main-recruitment .div2 .item {
+        margin-bottom: 20px; }
+        body .recruitment .main-recruitment .div2 .item .name {
+          font-weight: bold; }
+        body .recruitment .main-recruitment .div2 .item i {
+          color: #9e0509; }
+
+@media only screen and (max-width: 669px) {
+  body .recruitment .main-recruitment .div1 .des-recruitment {
+    float: none;
+    width: 100%; }
+  body .recruitment .main-recruitment .div1 .img {
+    display: none; } }
+
+/*# sourceMappingURL=recruitment.css.map */

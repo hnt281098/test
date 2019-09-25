@@ -1,0 +1,36 @@
+.tuyen-duong {
+  padding: 10px; }
+  .tuyen-duong .ben-xe .title-ben-xe img {
+    float: left;
+    width: 30px; }
+  .tuyen-duong .ben-xe .title-ben-xe p {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    font-size: 20px; }
+  .tuyen-duong .ben-xe .main-ben-xe thead {
+    background: #9e0509;
+    text-align: center;
+    color: #fff; }
+  .tuyen-duong .ben-xe .main-ben-xe tbody {
+    text-align: center; }
+    .tuyen-duong .ben-xe .main-ben-xe tbody img {
+      width: 20px;
+      margin-right: 5px; }
+    .tuyen-duong .ben-xe .main-ben-xe tbody .color {
+      color: #9e0509;
+      font-weight: bold; }
+    .tuyen-duong .ben-xe .main-ben-xe tbody .mua-ve {
+      border: 1px solid #9e0509;
+      padding-top: 2px;
+      padding-bottom: 2px; }
+      .tuyen-duong .ben-xe .main-ben-xe tbody .mua-ve a {
+        color: #9e0509; }
+    .tuyen-duong .ben-xe .main-ben-xe tbody #gio-chay {
+      width: 30px; }
+    .tuyen-duong .ben-xe .main-ben-xe tbody .sub-time {
+      position: absolute;
+      display: none; }
+
+/*# sourceMappingURL=tuyen-duong.css.map */

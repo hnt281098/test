@@ -1,0 +1,89 @@
+@font-face {
+  font-family: bodyFont;
+  src: url("../font/MYRIAD PRO/MyriadPro-Regular.otf"); }
+@font-face {
+  font-family: serviceFont;
+  src: url("../font/SNV JOURNEY BOLD.otf"); }
+body {
+  max-width: 1570px;
+  margin: auto;
+  font-family: bodyFont; }
+  body a:hover {
+    text-decoration: none; }
+  
+  body .footer {
+    width: 80%;
+    margin: auto; }
+    ul{
+      list-style-type: none;
+    }
+    body .footer .view{
+      transform: translate(-20px, 200px);
+      color: #fff;
+      float: right;
+    }
+    body .footer .hotline {
+      width: 300px;
+      padding: 5px;
+      border: 2px solid #9e0509;
+      border-radius: 5px;
+      text-align: center;
+      margin-right: 14px;
+      position: fixed;
+      right: 10px;
+      bottom: 10px;
+      z-index: 9999; }
+      body .footer .hotline .main-hotline {
+        background-color: #9e0509;
+        color: #fff;
+        font-size: 16px;
+        border-radius: 5px; }
+        body .footer .hotline .main-hotline span {
+          font-size: 22px;
+          font-weight: 900; }
+    body .footer .main-footer {
+      background-color: #6b1814;
+      text-align: center;
+      color: #fff;
+      clear: both;
+      padding: 14px;
+      padding-bottom: 5px; }
+      body .footer .main-footer .icon-footer {
+        text-align: left;
+        transform: translateY(-45px); }
+        body .footer .main-footer .icon-footer .li2 {
+          transform: translateY(-9px); }
+        body .footer .main-footer .icon-footer li {
+          background: #fff;
+          width: 40px;
+          height: 40px;
+          border-radius: 100%;
+          padding: 5px;
+          text-align: center; }
+          body .footer .main-footer .icon-footer li img {
+            width: 30px; }
+          body .footer .main-footer .icon-footer li i {
+            font-size: 20px;
+            color: #6b1814;
+            line-height: 35px;
+            margin-left: 4px;
+            transform: translateY(-2px); }
+
+@media only screen and (max-width: 769px) {
+  body .footer {
+    width: 100%; }
+    body .footer .main-footer .icon-footer {
+      transform: translateY(0);
+      text-align: center; } }
+@media only screen and (max-width: 481px) {
+  body .main .inmain .branch .main-branch .item .main-item img {
+    height: 250px; }
+  body .footer .hotline {
+    width: 190px; }
+    body .footer .hotline .main-hotline {
+      font-size: 12px; }
+      body .footer .hotline .main-hotline i {
+        font-size: 14px; }
+      body .footer .hotline .main-hotline span {
+        font-size: 13px; } }
+/*# sourceMappingURL=index.css.map */

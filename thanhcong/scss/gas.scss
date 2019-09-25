@@ -1,0 +1,44 @@
+body{
+  max-width: 1570px;
+  margin: auto;
+  .gas{
+    .head-gas{
+      img{
+        width: 250px;
+      }
+    }
+    h1{
+      text-align: center;
+      color: #0000ff;
+      border-bottom: 3px solid #0000ff;
+      width: 50%;
+      margin: auto;
+      margin-bottom: 30px;
+    }
+    .gas1{
+      img{
+        width: 100%;
+      }
+      .item{
+        margin-top: 30px;
+      }
+    }
+    .gas2{
+      img{
+        width: 100%;
+        margin-bottom: 20px;
+      }
+    }
+  }
+}
+@media only screen and (max-width: 481px){
+  body{
+    .gas{
+      h1{
+        width: 100%;
+        font-size: 20px;
+        margin-top: 10px;
+      }
+    }
+  }
+}

@@ -1,0 +1,144 @@
+body .price .head-price img {
+  width: 250px; }
+body .price .main-price {
+  margin-top: 30px; }
+  body .price .main-price .nav-tabs {
+    border-bottom: 1px solid #000; }
+    body .price .main-price .nav-tabs a {
+      color: #000;
+      font-weight: bold; }
+    body .price .main-price .nav-tabs .nav-link.active {
+      border-top: 5px solid #95181d;
+      border-left: 1px solid #000;
+      border-right: 1px solid #000; }
+  body .price .main-price .tab-content {
+    margin-top: 20px; }
+    body .price .main-price .tab-content .tab-pane .item-schedule {
+      margin-bottom: 30px; }
+      body .price .main-price .tab-content .tab-pane .item-schedule .title-item {
+        font-size: 25px;
+        font-weight: bold; }
+        body .price .main-price .tab-content .tab-pane .item-schedule .title-item i {
+          font-size: 30px;
+          margin-right: 5px; }
+      body .price .main-price .tab-content .tab-pane .item-schedule .main-item {
+        margin-bottom: 20px; }
+        body .price .main-price .tab-content .tab-pane .item-schedule .main-item p {
+          margin-bottom: 0; }
+        body .price .main-price .tab-content .tab-pane .item-schedule .main-item .header-item {
+          background: #ccc;
+          text-align: center;
+          font-size: 18px;
+          font-weight: bold;
+          height: 50px;
+          line-height: 50px; }
+        body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item {
+          padding-left: 30px;
+          padding-right: 30px;
+          padding-top: 20px; }
+          body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item {
+            float: left;
+            margin-top: 24px; }
+            body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item .luotdi {
+              float: left; }
+              body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item .luotdi .xuatben1, body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item .luotdi .time, body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item .luotdi .toiben1 {
+                float: left;
+                text-align: center; }
+          body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile {
+            float: right;
+            width: 70%; }
+            body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .item2 {
+              float: left;
+              margin-top: 24px; }
+              body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .item2 p {
+                float: left;
+                margin-right: 60px; }
+              body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .item2 .loaixe {
+                width: 200px;
+                margin-right: 40px; }
+            body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .right-item {
+              text-align: right;
+              float: right; }
+              body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .right-item button {
+                padding: 10px;
+                background: #9e0509;
+                color: #fff;
+                border: none;
+                border-radius: 5px; }
+
+@media only screen and (max-width: 1407px) {
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item .luotdi {
+    font-size: 14px; }
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 14px; }
+    body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .item2 p {
+      margin-right: 20px; }
+    body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .item2 .loaixe {
+      width: 170px;
+      margin-right: 10px;
+      margin-left: 20px; } }
+@media only screen and (max-width: 1225px) {
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item .luotdi {
+    font-size: 12px; }
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 12px; } }
+@media only screen and (max-width: 1063px) {
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item {
+    margin-top: 0; }
+    body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item .luotdi {
+      font-size: 16px; }
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 16px;
+    width: 50%; }
+    body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .item2 {
+      margin-top: 0; }
+      body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .item2 p {
+        float: none; }
+      body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .item2 .loaixe {
+        margin-left: 0;
+        width: 200px; } }
+@media only screen and (max-width: 915px) {
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item .luotdi {
+    font-size: 14px; }
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 14px; } }
+@media only screen and (max-width: 833px) {
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item {
+    float: none; }
+    body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item .luotdi {
+      font-size: 16px; }
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 16px;
+    width: 100%; }
+    body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .item2 {
+      float: none;
+      margin-left: 0; }
+      body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .item2 p {
+        float: left;
+        margin-left: 0;
+        margin-right: 10px; }
+    body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile .right-item {
+      float: none;
+      text-align: left; } }
+@media only screen and (max-width: 410px) {
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item {
+    float: none; }
+    body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item .luotdi {
+      font-size: 14px; }
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile {
+    font-size: 14px; } }
+@media only screen and (max-width: 380px) {
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .header-item {
+    font-size: 16px; } }
+@media only screen and (max-width: 371px) {
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .header-item {
+    font-size: 16px; }
+  body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item {
+    padding-left: 10px;
+    padding-right: 10px; }
+    body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .left-item .luotdi {
+      font-size: 12px; }
+    body .price .main-price .tab-content .tab-pane .item-schedule .main-item .inmain-item .right-mobile {
+      font-size: 12px; } }
+
+/*# sourceMappingURL=price.css.map */

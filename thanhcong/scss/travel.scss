@@ -1,0 +1,67 @@
+body{
+  max-width: 1570px;
+  margin: auto;
+  .travel{
+    .tic{
+      background-color: #9e0509;
+      padding-top: 5px;
+      color: #fff;
+      text-align: center;
+      font-size: 20px;
+      position: relative;
+      z-index: 98;
+      font-weight: bold;
+    }
+    .main-travel{
+      .tic{
+        width: 210px;
+      }
+      .inmain-travel{
+        border-top: 3px solid #9e0509;
+        padding-top: 30px;
+        h1{
+          text-align: center;
+          color: #0000ff;
+          margin-bottom: 30px;
+          font-weight: bold;
+        }
+        span{
+          font-weight: bold;
+        }
+        .item1{
+          img{
+            display: block;
+            width: 80%;
+            margin: auto;
+          }
+        }
+        .item2{
+          img{
+            width: 100%;
+            margin-bottom: 20px;
+          }
+        }
+      }
+    }
+    .details{
+      .tic{
+        width: 100px;
+      }
+      .main-details{
+        border-top: 3px solid #9e0509;
+        padding-top: 30px;
+        h1{
+          text-align: center;
+          font-weight: bold;
+        }
+        img{
+          width: 100%;
+          margin-bottom: 20px;
+        }
+        span{
+          font-weight: bold;
+        }
+      }
+    }
+  }
+}

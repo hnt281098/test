@@ -1,0 +1,41 @@
+body .station img {
+  width: 100%; }
+body .station .station-item {
+  margin-bottom: 20px; }
+  body .station .station-item .main-station .icon-item {
+    width: 250px; }
+  body .station .station-item .water .icon-item {
+    width: 300px;
+    margin-bottom: 20px; }
+  body .station .station-item .restaurant .icon-item {
+    width: 200px;
+    margin-bottom: 20px; }
+  body .station .station-item .restaurant .row img {
+    margin-top: 30px; }
+  body .station .station-item .kios .icon-item {
+    width: 50%;
+    margin-bottom: 20px; }
+  body .station .station-item .kios .row img {
+    margin-top: 30px; }
+  body .station .station-item h1 {
+    text-align: center;
+    color: #0000ff;
+    border-bottom: 3px solid #0000ff;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 30px; }
+body .station .budang .restaurant {
+  margin-top: 20px; }
+  body .station .budang .restaurant .row img {
+    margin-top: 0;
+    margin-bottom: 20px; }
+
+@media only screen and (max-width: 481px) {
+  body .station .station-item h1 {
+    width: 100%;
+    font-size: 20px;
+    margin-top: 10px; }
+  body .station .station-item .kios .icon-item {
+    width: 90%; } }
+
+/*# sourceMappingURL=station.css.map */

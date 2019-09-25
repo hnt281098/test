@@ -1,0 +1,46 @@
+body {
+  max-width: 1570px;
+  margin: auto; }
+  body .travel .tic {
+    background-color: #9e0509;
+    padding-top: 5px;
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    z-index: 98;
+    font-weight: bold; }
+  body .travel .main-travel .tic {
+    width: 210px; }
+  body .travel .main-travel .inmain-travel {
+    border-top: 3px solid #9e0509;
+    padding-top: 30px; }
+    body .travel .main-travel .inmain-travel h1 {
+      text-align: center;
+      color: #0000ff;
+      margin-bottom: 30px;
+      font-weight: bold; }
+    body .travel .main-travel .inmain-travel span {
+      font-weight: bold; }
+    body .travel .main-travel .inmain-travel .item1 img {
+      display: block;
+      width: 80%;
+      margin: auto; }
+    body .travel .main-travel .inmain-travel .item2 img {
+      width: 100%;
+      margin-bottom: 20px; }
+  body .travel .details .tic {
+    width: 100px; }
+  body .travel .details .main-details {
+    border-top: 3px solid #9e0509;
+    padding-top: 30px; }
+    body .travel .details .main-details h1 {
+      text-align: center;
+      font-weight: bold; }
+    body .travel .details .main-details img {
+      width: 100%;
+      margin-bottom: 20px; }
+    body .travel .details .main-details span {
+      font-weight: bold; }
+
+/*# sourceMappingURL=travel.css.map */

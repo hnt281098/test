@@ -1,0 +1,125 @@
+<header class="clearfix">
+    <div class="altcontent1 cmszone" id="ctl00_divAlt1">
+        <div id="logo">
+            <div class="Module Module-135">
+                <div class="ModuleContent">
+                    <a href="/">
+                        <img src="/img/uploads/logo_vn.png" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <nav class="clearfix" id="main-nav">
+                <div class="Module Module-42">
+                    <div class="">
+                        <button data-target="#nav-collapse" data-toggle="collapse" class="navbar-toggle collapsed" type="button">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <div id="nav-collapse" class="collapse  navbar-collapse">
+                            <ul class="nav navbar-nav">
+                                <li class="dropdown active">
+                                    <a target="_self" href="#">Chủ đầu tư 
+                                        <span class="caret"></span>
+                                    </a>
+                                    <ul role="menu" class="dropdown-menu">
+                                        <li class="active">
+                                            <a target="_self" href="http://masteri.com.vn/chu-dau-tu/gioi-thieu">Giới thiệu</a>
+                                        </li>
+                                        <li>
+                                            <a target="_self" href="http://masteri.com.vn/chu-dau-tu/cam-ket-cua-chu-dau-tu">Cam kết của chủ đầu tư</a>
+                                        </li>
+                                        <li>
+                                            <a target="_self" href="http://masteri.com.vn/chu-dau-tu/ho-tro-tu-phia-chu-dau-tu">Hỗ trợ từ phía chủ đầu tư</a>
+                                        </li>
+                                    </ul>
+                                    <a aria-expanded="true" role="button" href="#" data-toggle="dropdown" class="dropdown-toggle">
+                                        <span class="caret"></span>
+                                    </a>
+                                </li>
+                                <li class="dropdown">
+                                    <a target="_self" href="http://masteri.com.vn/du-an">Dự án 
+                                        <span class="caret"></span>
+                                    </a>
+                                    <ul role="menu" class="dropdown-menu">
+                                        <li>
+                                            <a target="_self" href="http://masteri.com.vn/du-an/thong-tin-du-an">Thông tin dự án</a>
+                                        </li>
+                                        <li>
+                                            <a target="_self" href="http://masteri.com.vn/du-an/can-ho-dien-hinh">Căn hộ điển hình</a>
+                                        </li>
+                                        <li>
+                                            <a target="_blank" href="http://duplex.masteri.com.vn/">Duplex</a>
+                                        </li>
+                                        <li>
+                                            <a target="_blank" href="http://www.penthouse.masteri.com.vn/">Penthouse</a>
+                                        </li>
+                                        <li>
+                                            <a target="_self" href="http://masteri.com.vn/du-an/thong-tin-ve-tien-ich">Thông tin về tiện ích</a>
+                                        </li>
+                                        <li>
+                                            <a target="_self" href="http://masteri.com.vn/du-an/goi-tai-chinh-dac-biet">Gói tài chính đặc biệt</a>
+                                        </li>
+                                    </ul>
+                                    <a aria-expanded="true" role="button" href="#" data-toggle="dropdown" class="dropdown-toggle">
+                                        <span class="caret"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a target="_self" href="http://masteri.com.vn/doi-tac">Đối tác </a>
+                                </li>
+                                <li class="dropdown">
+                                    <a target="_self" href="#">Tin tức 
+                                        <span class="caret"></span>
+                                    </a>
+                                    <ul role="menu" class="dropdown-menu">
+                                        <li>
+                                            <a target="_self" href="http://masteri.com.vn/tin-tuc/tin-tuc-su-kien">Tin tức sự kiện</a>
+                                        </li>
+                                        <li>
+                                            <a target="_self" href="http://masteri.com.vn/tin-tuc/ban-tin-masteri-thao-dien">Bản tin Masteri Thảo Điền</a>
+                                        </li>
+                                        <li>
+                                            <a target="_self" href="http://masteri.com.vn/tin-tuc/hinh-anh-su-kien">Hình ảnh sự kiện</a>
+                                        </li>
+                                    </ul>
+                                    <a aria-expanded="true" role="button" href="#" data-toggle="dropdown" class="dropdown-toggle">
+                                        <span class="caret"></span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a target="_self" href="http://masteri.com.vn/dai-ly-phan-phoi">Đại lý phân phối </a>
+                                </li>
+                                <li>
+                                    <a target="_self" href="http://masteri.com.vn/lien-he">Liên hệ </a>
+                                </li>
+                                <li class="tai-lieu">
+                                    <a href="/tai-tai-lieu">Tải tài liệu 
+                                        <img alt="Tài Liệu" src="/Data/Sites/1/media/icon/landingpage-icon-tai-lieu.png">
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <span class="menu-text"> (08) 39 159 159 - 012 98 159 159 </span>
+                                    </li>
+                                    <li class="search-icon">
+                                        <a href="javascript:void();">
+                                            <i class="fa fa-search"></i>
+                                        </a>
+                                        <div class="searchbox" id="ctl00_altContent1_ctl03_Search_pnlSearch">
+                                            <input type="text" placeholder="Tìm kiếm" autocomplete="off" class="searchinput" title="Tìm kiếm" id="ctl00_altContent1_ctl03_Search_txtSearch" name="">
+                                                <button class="searchbutton" id="ctl00_altContent1_ctl03_Search_btnSearch" >
+        Tìm kiếm
+    </button>
+                                                <i class="fa fa-times"></i>
+                                            </div>
+                                        </li>
+                                        
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </nav>
+                        </div>
+                    </header>
